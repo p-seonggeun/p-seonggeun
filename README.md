@@ -4,7 +4,7 @@
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-seonggeun&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-seonggeun&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-seonggeun&layout=compact) -->
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoitama)](https://solved.ac/hoitama)
 </div>
