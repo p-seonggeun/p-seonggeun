@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on ... **Moaolio - Portfolio Sharing Service**
 - 🌱 I’m currently learning ... **Spring Security**
 - 🤔 I’m interested in  ... **Backend Development**
-- ⚡ Fun fact: ... I love studying **algorithm**
+- ⚡ Fun fact: ... I love studying **Algorithm**
 
 
 ## My tech Skills
