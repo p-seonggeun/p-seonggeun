@@ -4,7 +4,7 @@
   
 <!-- ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Welcome%20to%20p-seonggeun%20!&fontSize=50&fontColor=000000&fontAlign=50) -->
 
-## 🐾 Hi! I'm Seong Geun Park
+## 👋🏻  Hi! I'm Seong Geun Park 👋🏻
 
 - 🔭 I’m currently working on ... **Moaolio - Portfolio Sharing Service**
 - 🌱 I’m currently learning ... **Spring Security**
