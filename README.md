@@ -7,7 +7,7 @@
 ## 👋🏻  Hi! I'm Seong Geun Park 👋🏻
 
 - 🔭 I’m currently working on ... **kakao X goorm deepdive**
-- 🌱 I’m currently learning ... **Github Actions CI/CD**
+- 🌱 I’m currently learning ... **board-practice**
 - 🤔 I’m interested in  ... **Backend Development**
 - ⚡ Fun fact: ... I love studying **Algorithm**
 
